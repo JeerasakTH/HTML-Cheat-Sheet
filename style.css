@@ -1,0 +1,34 @@
+body {
+    box-sizing: border-box;
+    position: relative;
+    background-color: lightgray;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: serif;
+}
+
+h2 {
+    color: purple;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid fuchsia;
+}
+
+th {
+    background-color: hotpink;
+}
+
+td {
+    border-top: 1px solid fuchsia;
+    padding: 0px 20px 0px 5px;
+}
+
+.tag, .atb {
+    font-family: monospace;
+    display: inline;
+    background-color: floralwhite;
+}
